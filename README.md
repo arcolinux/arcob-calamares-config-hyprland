@@ -1,0 +1,2 @@
+# ArcoLinuxB-hypr Calamares configuration
+
